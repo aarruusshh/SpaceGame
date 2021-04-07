@@ -1,0 +1,4 @@
+install pygame:
+pip install pygame
+run:
+python main
